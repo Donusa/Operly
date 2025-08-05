@@ -1,10 +1,10 @@
-package com.operly.app;
+package operly.api.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OperlyApplicationTests {
+class ApiGatewayApplicationTests {
 
 	@Test
 	void contextLoads() {

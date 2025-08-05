@@ -8,11 +8,12 @@
 		<version>3.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.operly</groupId>
+	<groupId>ladsa</groupId>
 	<artifactId>operly</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>operly</name>
-	<description>Operly App</description>
+	<name>api_gateway</name>
+	<description>API Gateway for Operly
+</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -37,10 +38,6 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
